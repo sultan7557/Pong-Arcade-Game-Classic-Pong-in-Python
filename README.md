@@ -1,6 +1,6 @@
 # Pong Arcade Game
 
-![Pong Game Screenshot](screenshot_pong_game.png)
+![Pong Game Screenshot](images/Screenshot-pong.png)
 
 A classic Pong arcade game implementation built with Python and the Turtle graphics library. This recreation features the iconic two-player experience with smooth paddle movement, increasing ball speed, and score tracking.
 
